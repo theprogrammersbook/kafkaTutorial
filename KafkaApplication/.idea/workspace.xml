@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c8a1d9-7054-4049-b170-2a07eed18b17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VgfVrKwRB9e10gCYGlubswYsQV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.Producer">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Consumer" />
+      <module name="KafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Producer" />
+      <module name="KafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.Consumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c8a1d9-7054-4049-b170-2a07eed18b17" name="Default Changelist" comment="" />
+      <created>1577679685643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577679685643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="206" width="488" height="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577679924483">
+      <screen x="67" y="27" width="1299" height="636" />
+    </state>
+    <state x="467" y="206" width="488" height="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.636@67.27.1299.636" timestamp="1577679924483" />
+    <state width="1807" height="302" key="GridCell.Tab.0.bottom" timestamp="1577699308080">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1253" height="141" key="GridCell.Tab.0.bottom/67.27.1299.636@67.27.1299.636" timestamp="1577695288523" />
+    <state width="1807" height="302" key="GridCell.Tab.0.bottom/67.27.1853.948@67.27.1853.948" timestamp="1577699308080" />
+    <state width="1807" height="302" key="GridCell.Tab.0.center" timestamp="1577699308079">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1253" height="141" key="GridCell.Tab.0.center/67.27.1299.636@67.27.1299.636" timestamp="1577695288520" />
+    <state width="1807" height="302" key="GridCell.Tab.0.center/67.27.1853.948@67.27.1853.948" timestamp="1577699308079" />
+    <state width="1807" height="302" key="GridCell.Tab.0.left" timestamp="1577699308079">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1253" height="141" key="GridCell.Tab.0.left/67.27.1299.636@67.27.1299.636" timestamp="1577695288520" />
+    <state width="1807" height="302" key="GridCell.Tab.0.left/67.27.1853.948@67.27.1853.948" timestamp="1577699308079" />
+    <state width="1807" height="302" key="GridCell.Tab.0.right" timestamp="1577699308080">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1253" height="141" key="GridCell.Tab.0.right/67.27.1299.636@67.27.1299.636" timestamp="1577695288521" />
+    <state width="1807" height="302" key="GridCell.Tab.0.right/67.27.1853.948@67.27.1853.948" timestamp="1577699308080" />
+    <state width="1807" height="302" key="GridCell.Tab.1.bottom" timestamp="1577699326312">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="302" key="GridCell.Tab.1.bottom/67.27.1853.948@67.27.1853.948" timestamp="1577699326312" />
+    <state width="1807" height="302" key="GridCell.Tab.1.center" timestamp="1577699326311">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="302" key="GridCell.Tab.1.center/67.27.1853.948@67.27.1853.948" timestamp="1577699326311" />
+    <state width="1807" height="302" key="GridCell.Tab.1.left" timestamp="1577699326311">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="302" key="GridCell.Tab.1.left/67.27.1853.948@67.27.1853.948" timestamp="1577699326311" />
+    <state width="1807" height="302" key="GridCell.Tab.1.right" timestamp="1577699326311">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="302" key="GridCell.Tab.1.right/67.27.1853.948@67.27.1853.948" timestamp="1577699326311" />
+    <state x="67" y="27" width="710" height="636" key="find.popup" timestamp="1577681417947">
+      <screen x="67" y="27" width="1299" height="636" />
+    </state>
+    <state x="67" y="27" width="710" height="636" key="find.popup/67.27.1299.636@67.27.1299.636" timestamp="1577681417947" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/1.0.1/kafka-clients-1.0.1.jar!/org/apache/kafka/clients/producer/KafkaProducer.class</url>
+          <line>320</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/1.0.1/kafka-clients-1.0.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>766</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/1.0.1/kafka-clients-1.0.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java</url>
+          <line>799</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
