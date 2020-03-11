@@ -17,7 +17,7 @@ public class Consumer {
 
         KafkaConsumer<String, String> kafkaConsumer = new KafkaConsumer<String, String>(properties);
         List<String> topics = new ArrayList<String>();
-        topics.add("devglan-partitions-topic");
+        topics.add("simple-partitions-topic");
         kafkaConsumer.subscribe(topics);
         try{
             while (true){
